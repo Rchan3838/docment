@@ -52,7 +52,8 @@ li      {
 
 #box {
         margin: 5%;
-        padding-reft: -7%;
+        padding-light: -7%;
+        padding-reft: 2%;
         padding-bottom: 3%;
         width: 92%;
         height: 500%;
