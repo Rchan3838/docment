@@ -50,9 +50,9 @@ li      {
     
 
 #box {
-        margin: 40%;
-        width: 50%;
-        height: 250px;
+        margin: 10%;
+        width: 10%;
+        height: 10%;
         border: 3px solid #ffc341;
         background-color: #fbffbd;
         box-sizing: border-box;
