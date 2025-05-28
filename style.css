@@ -50,12 +50,12 @@ li      {
     
 
 #box {
-        margin: 40px;
-        width: 100%;
-        haight: 240px;
+        margin: 5%;
+        width: 75%;
+        height: 500%;
         border: 3px solid #ffc341;
         background-color: #fbffbd;
-        box-sizing: border-box;
+        box-sizing: content-box;
         border-radius: 10px; /* ボックスの四つ角を丸くする */
         }
 
